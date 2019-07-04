@@ -78,7 +78,7 @@ p{
     color: red;
 } */
 /* 4:24:15 */
-
+/*
 #first{
     color: rgb(255,0,0);
     background: rgba(100,100,100, 0.5);
@@ -89,14 +89,42 @@ p{
 }
 #third{
     color: #00ff00;
-    background: #0000ff;
+    background: #4c0b15;
 }
 body{
-    background: #af90ff;
+    background: #ffffff;
+} */
+/* h1{
+    font-size: 60px;
+    width: 200px;
+    height: 300px;
+    background: aqua;
+} */
+
+/* relative properties and values */
+/* .outer{
+    width: 500px;
+    height: 500px;
+    background: aliceblue;
+}
+.inner{
+    width: 100%;
+    height: 50%;
+    background: darkred;
+} */
+.relative{
+    font-size: 2em;
+}
+.absolute{
+    font-size: 32px;
+}
+.banner{
+    width: 50vw;
+    height: 50vh;
+    background: aquamarine;
 }
 
-
-
+/* 5:19:00 in video */
 
 
 
