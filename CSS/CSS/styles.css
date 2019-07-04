@@ -70,11 +70,51 @@ Div and Span Selectors
 /*******************************************************************************
 Inheritance hell yeah
 ******************************************************************************/
-p{
+/* p{
     color: blue;
 }
 
 p{
     color: red;
-}
+} */
 /* 4:24:15 */
+
+#first{
+    color: rgb(255,0,0);
+    background: rgba(100,100,100, 0.5);
+}
+#second{
+    color: rgb(255,255,0);
+    background: rgba(100,220,12, 0.3);
+}
+#third{
+    color: #00ff00;
+    background: #0000ff;
+}
+body{
+    background: #af90ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
