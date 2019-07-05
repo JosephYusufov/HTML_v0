@@ -138,30 +138,25 @@ body{
     background: red;
     min-height: calc(100vh - 15vh);
 } */
-/*******************************************************************************
-Font Families and typography.
-******************************************************************************/
+body{
+    text-align: center;
+    margin: 0;
+}
 .buttons{
-    font-size: 3rem;
-    margin: 50px;
+    font-size: 1rem;
+    margin: 0px;
 }
 .buttonLinks{
     text-decoration: none;
     color: black;
     font-family: sans-serif;
-    padding: 20px 100px;
+    padding: 20px;
     background: aquamarine;
-    margin: 0px 0px;
+    margin: 0px ;
     border: 10px solid red;
-    border-radius: 20%;
+    display: block;
 }
-#one{
-    margin: 0px;
-}
-#two{
-    margin: 0px;
-}
-
+/* 7 hours */
 
 
 
