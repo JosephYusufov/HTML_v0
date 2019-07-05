@@ -112,7 +112,7 @@ body{
     height: 50%;
     background: darkred;
 } */
-.relative{
+/* .relative{
     font-size: 2em;
 }
 .absolute{
@@ -122,10 +122,45 @@ body{
     width: 50vw;
     height: 50vh;
     background: aquamarine;
-}
+} */
 
 /* 5:19:00 in video */
-
+/* *{
+    margin: 0;
+}
+.navbar{
+    background: aquamarine;
+    height: 15vh;
+    color: antiquewhite;
+    font-size: 3rem;
+}
+.banner{
+    background: red;
+    min-height: calc(100vh - 15vh);
+} */
+/*******************************************************************************
+Font Families and typography.
+******************************************************************************/
+.buttons{
+    font-size: 3rem;
+    margin: 50px;
+}
+.buttonLinks{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    padding: 20px 100px;
+    background: aquamarine;
+    margin: 0px 0px;
+    border: 10px solid red;
+    border-radius: 20%;
+}
+#one{
+    margin: 0px;
+}
+#two{
+    margin: 0px;
+}
 
 
 
